@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Task Manager API Documentation
+    url: https://github.com/gitarber/task-manager-api#readme
+    about: Check out our documentation before creating an issue
+  - name: Security Issue
+    url: https://github.com/gitarber/task-manager-api/security/policy
+    about: Please report security vulnerabilities here 
